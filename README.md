@@ -1,8 +1,5 @@
 # 🚦 Traffic Volume Prediction using Deep Learning
 
-> *"Predicting the pulse of the city, one vehicle at a time."*
-
----
 
 ## 🌍 Overview
 This project leverages **Deep Learning** to analyze and forecast traffic volume across multiple junctions using real-world time-series data.  
