@@ -1,22 +1,22 @@
 # 🚦 Traffic Volume Prediction using Deep Learning
 
 
-## 🌍 Overview
+## Overview
 This project leverages **Deep Learning** to analyze and forecast traffic volume across multiple junctions using real-world time-series data.  
 By combining **Exploratory Data Analysis (EDA)**, **feature engineering**, and **LSTM/GRU-based models**, it captures temporal traffic patterns to assist in **smart city planning** and **traffic management**.
 
 ---
 
 ## 📊 Key Features
-- 🧩 **Data Preprocessing:** Cleans and transforms raw traffic data for analysis  
-- 📅 **Feature Engineering:** Extracts datetime components (year, month, hour, weekday)  
-- 📈 **EDA & Visualization:** Uncovers seasonal and hourly traffic patterns  
-- 🧠 **Deep Learning Models:** Implements LSTM, GRU, and Bidirectional RNNs  
-- 🎯 **Model Evaluation:** Calculates RMSE and visualizes performance metrics  
+- **Data Preprocessing:** Cleans and transforms raw traffic data for analysis  
+- **Feature Engineering:** Extracts datetime components (year, month, hour, weekday)  
+- **EDA & Visualization:** Uncovers seasonal and hourly traffic patterns  
+- **Deep Learning Models:** Implements LSTM, GRU, and Bidirectional RNNs  
+- **Model Evaluation:** Calculates RMSE and visualizes performance metrics  
 
 ---
 
-## 🧰 Tech Stack
+## Tools Used
 | Category | Tools |
 |-----------|-------|
 | Language | Python 🐍 |
@@ -36,25 +36,18 @@ By combining **Exploratory Data Analysis (EDA)**, **feature engineering**, and *
 
 ---
 
-## 🌟 Visual Insights
-- 📅 Yearly and hourly vehicle trends  
-- 🚗 Junction-wise traffic intensity  
-- 🔥 Correlation heatmaps revealing key dependencies  
+##  Visual Insights
+- Yearly and hourly vehicle trends  
+- Junction-wise traffic intensity  
+- Correlation heatmaps revealing key dependencies  
 
 *(Sample output visualizations can be added here)*
 
 ---
 
-## 🧩 Results
+## Results
 The models successfully predict traffic flow trends with high accuracy, providing valuable insights into:
-- 🛣️ Peak-hour congestion
-- 🚦 Junction traffic comparison
-- 📉 Temporal behavior of vehicle movement  
+-  Peak-hour congestion
+-  Junction traffic comparison
+-  Temporal behavior of vehicle movement  
 
-
-### 🧠 Author
-**Sai Nishant**  
-📍 Passionate about AI, Data Science, and building intelligent systems  
-🔗 [LinkedIn](#) • [GitHub](#)
-
----
