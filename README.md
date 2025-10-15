@@ -7,7 +7,7 @@ By combining **Exploratory Data Analysis (EDA)**, **feature engineering**, and *
 
 ---
 
-## 📊 Key Features
+## Key Features
 - **Data Preprocessing:** Cleans and transforms raw traffic data for analysis  
 - **Feature Engineering:** Extracts datetime components (year, month, hour, weekday)  
 - **EDA & Visualization:** Uncovers seasonal and hourly traffic patterns  
@@ -19,14 +19,14 @@ By combining **Exploratory Data Analysis (EDA)**, **feature engineering**, and *
 ## Tools Used
 | Category | Tools |
 |-----------|-------|
-| Language | Python 🐍 |
+| Language | Python |
 | Libraries | Pandas, NumPy, Matplotlib, Seaborn |
 | Deep Learning | TensorFlow / Keras |
 | Visualization | Seaborn, Matplotlib |
 
 ---
 
-## 🧪 Workflow
+## Workflow
 1. **Load Dataset** → `traffic.csv`  
 2. **Perform EDA** → Analyze trends and correlations  
 3. **Feature Engineering** → Create time-based predictors  
