@@ -11,7 +11,7 @@ By combining **Exploratory Data Analysis (EDA)**, **feature engineering**, and *
 - **Data Preprocessing:** Cleans and transforms raw traffic data for analysis  
 - **Feature Engineering:** Extracts datetime components (year, month, hour, weekday)  
 - **EDA & Visualization:** Uncovers seasonal and hourly traffic patterns  
-- **Deep Learning Models:** Implements LSTM, GRU, and Bidirectional RNNs  
+- **Deep Learning Models:** Implements LSTM and GRU
 - **Model Evaluation:** Calculates RMSE and visualizes performance metrics  
 
 ---
