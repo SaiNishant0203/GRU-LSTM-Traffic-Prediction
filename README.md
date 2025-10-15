@@ -41,7 +41,7 @@ By combining **Exploratory Data Analysis (EDA)**, **feature engineering**, and *
 - Junction-wise traffic intensity  
 - Correlation heatmaps revealing key dependencies  
 
-*(Sample output visualizations can be added here)*
+
 
 ---
 
